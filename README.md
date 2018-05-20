@@ -98,7 +98,6 @@ benOS has many components that make the wheels turn. Below are a list of those c
 [Mercury](https://github.com/benchlab/mercury) - benOS Graphical User Interface <br>
 [Asteroid](https://github.com/benchlab/go-asteroid) - benOS Native Programming Language <br>
 [Meteor](https://github.com/benchlab/meteor) - benOS Native IDE for dApp Development <br>
-<br><br>
 
 ## benOS Core Components
 [benOS-Microkernel](https://github.com/benOS-Microkernel) - benOS Microkernel <br>
